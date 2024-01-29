@@ -1,0 +1,2 @@
+This is the license file for my project. 
+Feel free to use and modify the code according to the terms specified in this license.
